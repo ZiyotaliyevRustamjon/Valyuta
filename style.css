@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 .content{
     width: 50%;
     max-width: 50%;
@@ -17,4 +22,13 @@
     padding: 10px;
     border-radius: 10px;
     border: none;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.144);
+    position: fixed;
+    bottom: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
 }

@@ -1,0 +1,20 @@
+.content{
+    width: 50%;
+    max-width: 50%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.144);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 30px;
+    border-radius: 10px;
+    margin-top: 10vh;
+}
+.inputText{
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
